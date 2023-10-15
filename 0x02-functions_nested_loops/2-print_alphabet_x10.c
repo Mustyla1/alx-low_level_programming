@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print alphabet - prints alpabets in lowercase 10x
+* main - putchar is the main function
 * Return: 0
 */
 
@@ -13,6 +13,6 @@ void print_alphabet_x10(void)
 	{
 		for (j = 'a' ; j <= 'z' ; j++)
 			_putchar(j);
-	}
 	_putchar('\n');
+	}
 }
