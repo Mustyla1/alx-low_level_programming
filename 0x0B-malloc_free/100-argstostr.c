@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * *argstostr – concatenate all program arguments
- *
- * @ac: argument count
- * @av: argument vector
- * Return:  a pointer to the array of char
- */
+*argstostr – main function
+*@ac: argument count
+*@av: argument vector
+*Return:  a pointer to the array of char
+*/
 
 char *argstostr(int ac, char **av)
 {
