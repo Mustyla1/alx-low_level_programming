@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*argstostr – main function
+*argstostr - main function
 *@ac: argument count
 *@av: argument vector
 *Return:  a pointer to the array of char
